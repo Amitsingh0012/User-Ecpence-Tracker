@@ -26,6 +26,6 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
-      run: mvn -B package --file ./Expence tracker/Expence-Tracker/pom.xml
+      run: mvn -B package --file ./Expence tracker/pom.xml
 
    
