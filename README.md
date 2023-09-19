@@ -2,7 +2,6 @@
 
 Expense Tracker is a web-based application built with Spring Boot that allows users to manage and track their expenses. This application provides CRUD (Create, Read, Update, Delete) functionality for expenses, making it easy to record and manage your financial transactions.
 
-![Expense Tracker Screenshot](expense-tracker-screenshot.png)
 
 ## Features
 
